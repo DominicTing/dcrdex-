@@ -978,7 +978,7 @@
   "ln.watchtowersTab.removeTowerBtn": "删除瞭望塔",
   "ln.watchtowersTab.sessions": "会话：{Sessions}",
   "loader.title": "欢迎使用 Decrediton 钱包",
-  "loader.title.chooseTheWallet": "选择要访问的钱包",
+  "loader.title.chooseTheWallet": "请选择要访问的钱包",
   "loaderBar.StartingDaemon": "正在启动守护程序。。。",
   "loaderBar.WaitingConnection": "正在连接到守护程序...",
   "loaderBar.WaitingDaemon": "正在等待守护程序连接...",
