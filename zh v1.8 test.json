@@ -457,7 +457,7 @@
   "getStarted.learnBasics": "学习基础知识",
   "getStarted.newSeedTab": "创建新钱包",
   "getStarted.passphrase.info": "钱包账户处于隐藏状态。请输入私人密码执行帐户发现。",
-  "getStarted.releaseInfo": "发布信息",
+  "getStarted.releaseInfo": "版本信息",
   "getStarted.releaseNotes.NewerVersion": "新版本",
   "getStarted.releaseNotes.OlderVersion": "旧版本",
   "getStarted.releaseNotesTitle": "Decrediton v{version} 已发布",
